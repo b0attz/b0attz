@@ -52,12 +52,16 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=b0attz&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0attz&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b0attz&theme=github_dark" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b0attz&theme=dark&background=0d1117&border=30363d&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=b0attz&theme=github_dark" alt="Stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=b0attz&theme=github_dark" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b0attz&theme=dark&background=0d1117&border=30363d&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="GitHub Streak" />
 </div>
 
 ---
@@ -66,12 +70,20 @@ me.say_hi()
 ## 🔥 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/b0attz/drive-file-manager">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=b0attz&repo=drive-file-manager&theme=dark&bg_color=0d1117&border_color=30363d" />
-  </a>
-  <a href="https://github.com/b0attz/smart-sprinkler">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=b0attz&repo=smart-sprinkler&theme=dark&bg_color=0d1117&border_color=30363d" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>📁 Drive File Manager</h3>
+        <p>Python + FastAPI · Google Drive API · Vanilla JS</p>
+        <a href="https://github.com/b0attz/drive-file-manager">→ View Project</a>
+      </td>
+      <td width="50%" align="center">
+        <h3>💧 Smart Sprinkler</h3>
+        <p>Node.js · C/C++ · IoT · Smart Farm</p>
+        <a href="https://github.com/b0attz/smart-sprinkler">→ View Project</a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
