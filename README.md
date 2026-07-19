@@ -11,7 +11,7 @@
 class Boat:
     def __init__(self):
         self.name = "Boat"
-        self.role = "Full Stack Developer"
+        self.role = "Study"
         self.location = "Thailand 🇹🇭"
         self.code = ["Python", "JavaScript", "HTML", "CSS", "C/C++"]
         self.tools = ["FastAPI", "Node.js", "React", "Arduino"]
