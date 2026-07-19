@@ -88,15 +88,6 @@ me.say_hi()
 
 ---
 
-<!-- Spotify -->
-## 🎵 Now Playing
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31g665nmmfxn45jsaokehvb7enva">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31g665nmmfxn45jsaokehvb7enva&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true" alt="Spotify Now Playing" />
-  </a>
-</div>
-
 ---
 
 <!-- Blog Posts -->
