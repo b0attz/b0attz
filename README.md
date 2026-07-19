@@ -88,8 +88,6 @@ me.say_hi()
 
 ---
 
----
-
 <!-- Blog Posts -->
 ## 📝 Latest Blog Posts
 
