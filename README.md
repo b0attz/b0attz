@@ -16,7 +16,6 @@ class Boat:
         self.code = ["Python", "JavaScript", "HTML", "CSS", "C/C++"]
         self.tools = ["FastAPI", "Node.js", "React", "Arduino"]
         self.interests = ["Web Dev", "IoT", "Smart Farm", "Automation"]
-        self.currently = "Exploring cloud & DevOps"
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something awesome.")
